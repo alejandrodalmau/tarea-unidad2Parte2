@@ -1,0 +1,46 @@
+.contenedor {
+    position: relative;
+    background-color: blanchedalmond;
+    width: 1200px;
+    height: 200px;
+    top: 80px;
+    left: 50px;
+    margin: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 5px solid #191a14;
+
+}
+
+.rojo {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px; 
+    color: white;
+    
+}
+
+.azul {
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px; 
+    color: white;
+}
+
+.verde {
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    text-align: center;
+    line-height: 200px; 
+    color: white;
+}
